@@ -275,7 +275,7 @@ h6 {
   width: 100%;
   height: 100vh;
   background: url("../img/profile-img.jpg") no-repeat;
-  background-size: contain;
+  background-size: cover;
   align-items: center;
   position: relative;
 }
